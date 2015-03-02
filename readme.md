@@ -1,4 +1,4 @@
-Android-Take-Photo-From-Camera-and-Gallery-Code-Sample
+Android-Wifi-Connection-Demo-Code-Sample
 ======================================================
 
 Main objective of this tutorial is to help you to get information about the WiFi connections.
